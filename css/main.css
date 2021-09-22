@@ -18,6 +18,10 @@
     padding:26px;
     
 }
+p {
+    font-size: 20px;
+    padding-top: 5%;
+}
 
 /* BOTTOM */
 button{
@@ -53,15 +57,18 @@ a {
 
 /* MAIN SECTION */
 .container-2{
-    width: 625px;
+    width: 766px;
     background: blue;
     margin-top: 7%;
-    margin-left: 25%;
+    margin-left: 19%;
     padding: 0%;
 }
 
 /* section text */
-.text {
+.text  {
     text-align: center;
-    
 }
+h1 {
+    font-size:50px ;
+}
+/* section buttom */
