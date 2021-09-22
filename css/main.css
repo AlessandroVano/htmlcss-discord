@@ -13,11 +13,12 @@
 }
 .container {
     width: 1250px;
-    background: gray;
+    background: gray; 
     margin: 2% auto;
-    padding:26px;
-    
+    padding-bottom: 8%;
+    padding-top: 1%; 
 }
+ 
 p {
     font-size: 20px;
     padding-top: 5%;
@@ -58,7 +59,7 @@ a {
 /* MAIN SECTION */
 .container-2{
     width: 766px;
-    background: blue;
+  /*   background: blue; */
     margin-top: 7%;
     margin-left: 19%;
     padding: 0%;
@@ -72,3 +73,14 @@ h1 {
     font-size:50px ;
 }
 /* section buttom */
+.button-section{
+    padding-top: 3%;
+    margin-left: 104px;
+    
+}
+.button-1, .button-2{
+    margin-right: 10px;
+    padding: 12px 40px;
+    font-size: 20px;
+
+}
