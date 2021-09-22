@@ -12,10 +12,16 @@
     clear: both;
 }
 .container {
-    width: 1218px;
+    width: 1250px;
     background: gray;
     margin: 2% auto;
     padding:26px;   
+}
+/* UTILITY BOTTOM */
+button{
+    padding: 10px 10px;
+    font-size: 14px;
+    border-radius: 50px;
 }
 
 /* header section */
