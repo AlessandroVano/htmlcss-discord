@@ -29,6 +29,14 @@ p {
      
 }
 
+h1 {
+    font-size:50px ;
+}
+
+h2 {
+    font-size: 40px;
+}
+
 /* BOTTOM */
 button{
     padding: 10px 10px;
@@ -77,9 +85,7 @@ a {
 .text  {
     text-align: center;
 }
-h1 {
-    font-size:50px ;
-}
+
 /* section buttom */
 .button-section{
     padding-top: 3%;
@@ -97,8 +103,26 @@ h1 {
 .container-3 {
     background: gray;
     width: 1250px;  
-    margin: 2% auto;
+    height: 700px;
+   margin: 2% auto;
     padding-bottom: 8%;
-    padding-top: 5%; 
-   
+    padding-top: 5%;  
 }
+/* .text-float , img {
+    float: left;
+}
+ */
+ .container-img, .container-text{
+     float: left;
+
+ }
+ .container-img{
+    
+     width: 76%;
+ }
+ .container-text {
+  
+    width: 24%;
+    height: 20px;
+ }
+
