@@ -12,8 +12,7 @@
     clear: both;
 }
 .container {
-    width: 1250px;
-    /* background: gray;  */
+    width: 1250px;  
     margin: 2% auto;
     padding-bottom: 8%;
     padding-top: 1%; 
@@ -63,6 +62,9 @@ a {
 }
 
 /* MAIN SECTION */
+
+/* SECTION-1 */
+
 .container-2{
     width: 766px;
   /*   background: blue; */
@@ -88,5 +90,15 @@ h1 {
     margin-right: 10px;
     padding: 12px 40px;
     font-size: 20px;
+}
 
+/* SECTION-2 */
+
+.container-3 {
+    background: gray;
+    width: 1250px;  
+    margin: 2% auto;
+    padding-bottom: 8%;
+    padding-top: 5%; 
+   
 }
