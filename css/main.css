@@ -12,7 +12,8 @@
     clear: both;
 }
 .container {
-    width: 1250px;  
+   /*  width: 1250px;  */
+   width: 80%; 
     margin: 2% auto;
     padding-bottom: 8%;
     padding-top: 1%; 
@@ -74,7 +75,8 @@ a {
 /* SECTION-1 */
 
 .container-2{
-    width: 766px;
+    width: 766px; 
+
   /*   background: blue; */
     margin-top: 7%;
     margin-left: 19%;
@@ -89,20 +91,23 @@ a {
 /* section buttom */
 .button-section{
     padding-top: 3%;
-    margin-left: 104px;
+    /* margin-left: 104px; */
+    margin-left: 14%;
     
 }
 .button-1, .button-2{
-    margin-right: 10px;
-    padding: 12px 40px;
+    /* margin-right: 10px; */
+    margin-right: 5%;
+    /* padding: 12px 40px; */
+    padding: 2% 5%; 
     font-size: 20px;
 }
 
 /* SECTION-2 */
 
 .container-3 {
- 
-    width: 1250px;  
+   /*  width: 1250px; */
+    width: 80%;  
     height: 700px;
    margin: 2% auto;
     padding-bottom: 8%;
@@ -118,11 +123,23 @@ a {
  }
  .container-img{
     
-     width: 76%;
+     width: 66%;
  }
  .container-text {
   
-    width: 24%;
+    width: 21%;
     margin-top: 2%;
  }
 
+/* SEZIONE 3 */
+.container-img-2, .container-text-2{
+    float: right;
+}
+
+.container-img-2 {
+    width: 66%;
+}
+.container-text-2 {
+    width: 21%;
+    margin-top: 2%;
+}
